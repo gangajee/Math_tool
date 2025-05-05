@@ -13,5 +13,5 @@ def mul(a, b):
     return a*b
 
 #나누기
-def div(a, b):
+def div_(a, b):
     return a/b
