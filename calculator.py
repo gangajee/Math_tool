@@ -15,6 +15,3 @@ def mul(a, b):
 #나누기
 def div_new(a,b):
     return a/b
-
-def say_hello():
-    print("hello")
