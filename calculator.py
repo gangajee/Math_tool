@@ -15,3 +15,7 @@ def mul(a, b):
 #나누기
 def div_free(a, b):
     return a/b
+
+#제곱
+def square(a, b):
+    return a**b
