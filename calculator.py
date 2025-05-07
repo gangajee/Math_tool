@@ -34,3 +34,8 @@ def get_Abs(num):
 #백분율
 def get_percent(a, b):
     return (a/b) * 100
+
+#합공식
+def get_sum_ver1(n):
+    return n(n+1)/2
+
