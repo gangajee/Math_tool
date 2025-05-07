@@ -19,3 +19,7 @@ def div_new(a,b):
 #평균
 def get_average(a, b):
     return (a+b)/2
+
+#나머지
+def get_reminder(a, b):
+    return a//b
