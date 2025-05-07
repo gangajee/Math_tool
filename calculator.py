@@ -23,3 +23,10 @@ def get_average(a, b):
 #나머지
 def get_reminder(a, b):
     return a//b
+
+#절댓값
+def get_Abs(num):
+    if num >=0 :
+        return num
+    else :
+        return -num
