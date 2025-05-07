@@ -30,3 +30,7 @@ def get_Abs(num):
         return num
     else :
         return -num
+    
+#백분율
+def get_percent(a, b):
+    return (a/b) * 100
