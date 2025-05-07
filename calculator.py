@@ -15,3 +15,7 @@ def mul(a, b):
 #나누기
 def div_new(a,b):
     return a/b
+
+#평균
+def get_average(a, b):
+    return (a+b)/2
